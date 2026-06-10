@@ -1,1 +1,58 @@
-in
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABC Secondary School - Home</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>ABC Secondary School</h1>
+<p>Knowledge, Discipline and Excellence</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="academics.html">Academics</a>
+<a href="admissions.html">Admissions</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<main>
+<div class="container">
+
+<h2>Welcome to ABC Secondary School</h2>
+
+<p>
+ABC Secondary School is committed to providing quality education and preparing students for success.
+</p>
+
+<p>
+We provide a safe learning environment, qualified teachers, and modern educational opportunities that help students achieve academic excellence.
+</p>
+
+<h2>Why Choose Our School?</h2>
+
+<ul>
+<li>Qualified and experienced teachers</li>
+<li>Excellent academic programs</li>
+<li>Safe learning environment</li>
+<li>Character development and leadership training</li>
+<li>Modern learning resources</li>
+</ul>
+
+</div>
+</main>
+
+<footer>
+<p>
+Computer Studies Project | Grade 10<br>
+Submitted by: James C. Kweh Sr.<br>
+Submitted to: Mr. Emmanuel<br>
+Submission Date: June 12, 2026
+</p>
+</footer>
+
+</body>
+</html>in
